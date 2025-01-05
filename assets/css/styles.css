@@ -1,3 +1,3 @@
-header {
-    padding: 10px 20px; /* Adjust padding to reduce height */
+.page-header {
+    padding: 1rem;
 }
