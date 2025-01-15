@@ -1,4 +1,3 @@
-title: Alex Yashih 
-description: Alex Yashin tech notes
-theme: jekyll-theme-cayman
-css: /styles.css
+title: "My Markdown Blog"
+description: "A simple blog built with Guthub pages and Markdown"
+theme: minima 
