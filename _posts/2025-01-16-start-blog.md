@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "How to start the simpliest blog with markdown"
 date: 2025-01-15
 ---
 
