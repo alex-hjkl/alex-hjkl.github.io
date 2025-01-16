@@ -1,3 +1,8 @@
 title: "My Markdown Blog"
 description: "A simple blog built with Guthub pages and Markdown"
 theme: minima 
+links:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
