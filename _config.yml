@@ -1,9 +1,11 @@
 title: "Alex hjkl"
-author:
-  name: Alexey Yashin
-
+author: "Alexey Yashin"
 description: "Notes about some tech stuff"
+
 theme: minima 
+include:
+  - assets/css/style.scss
+
 links:
   - title: "Home"
     url: /
